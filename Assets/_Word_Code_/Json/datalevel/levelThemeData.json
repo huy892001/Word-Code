@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Alchemy symbol"
+  },
+  {
+    "Id": 2,
+    "Name": "Animal"
+  },
+  {
+    "Id": 3,
+    "Name": "Egypt"
+  },
+  {
+    "Id": 4,
+    "Name": "Flower"
+  },
+  {
+    "Id": 5,
+    "Name": "Gem"
+  },
+  {
+    "Id": 6,
+    "Name": "Sea"
+  },
+  {
+    "Id": 7,
+    "Name": "Shape"
+  },
+  {
+    "Id": 8,
+    "Name": "Viking"
+  },
+  {
+    "Id": 9,
+    "Name": "Xmas"
+  }
+]

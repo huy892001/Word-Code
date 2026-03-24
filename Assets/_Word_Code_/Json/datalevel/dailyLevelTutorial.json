@@ -1,0 +1,21 @@
+{
+  "Id": 0,
+  "IdTheme": 0,
+  "Source": "Daily Quote",
+  "Quote": "A journey of a thousand miles begins with a single step. Those who know do not speak. Those who speak do not know.",
+  "LevelType": 3,
+  "WordDefinitions": [
+    {
+      "WordIndex": 1,
+      "Definition": "Long trip or adventure"
+    },
+    {
+      "WordIndex": 4,
+      "Definition": "Number after nine ninety-nine"
+    },
+    {
+      "WordIndex": 16,
+      "Definition": "Say words out loud"
+    }
+  ]
+}
